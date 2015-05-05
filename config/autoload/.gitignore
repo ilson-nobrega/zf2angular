@@ -1,0 +1,4 @@
+local.php
+*.local.php
+!/zenddevelopertools.local.php
+!/doctrine_orm.local.php
